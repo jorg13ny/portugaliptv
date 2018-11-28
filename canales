@@ -1,0 +1,590 @@
+ #EXTINF:-1,PT:RTP1
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5058
+#EXTINF:-1,PT:RTP1_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5057
+#EXTINF:-1,PT:RTP2
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5056
+#EXTINF:-1,PT:RTP_2_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5055
+#EXTINF:-1,PT:SIC
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5054
+#EXTINF:-1,PT:SIC_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5053
+#EXTINF:-1,PT:TVI
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5052
+#EXTINF:-1,PT:RTP_ACORES
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5051
+#EXTINF:-1,PT:RTP_MADEIRA
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5050
+#EXTINF:-1,PT:RTP_AFRICA
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5049
+#EXTINF:-1,=======INFORMAÇÃO=======
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5066
+#EXTINF:-1,PT:RTP_3
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5065
+#EXTINF:-1,PT:SIC_NOTICIAS
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5064
+#EXTINF:-1,PT:TVI24
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5063
+#EXTINF:-1,PT:CM_TV
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5062
+#EXTINF:-1,PT:KURIAKOS_TV
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5061
+#EXTINF:-1,PT:FOX_NEWS
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5060
+#EXTINF:-1,=======ENTRETENIMENTO=======
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5077
+#EXTINF:-1,PT:TVI_FICAO
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5076
+#EXTINF:-1,PT:SIC_MULHER
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5075
+#EXTINF:-1,PT:SIC_RADICAL
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5074
+#EXTINF:-1,PT:CANAL_Q
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5073
+#EXTINF:-1,PT:RTP_MEMORIA
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5072
+#EXTINF:-1,PT:E!_ENTERTAINMENT
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5071
+#EXTINF:-1,PT:BLAZE
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5070
+#EXTINF:-1,PT:SIC_CARAS
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5069
+#EXTINF:-1,PT:TLC
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/8158
+#EXTINF:-1,PT:CBS_REALITY
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5068
+#EXTINF:-1,PT:TVI_REALITY
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5067
+#EXTINF:-1,=======FILMES=======
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5129
+#EXTINF:-1,PT:TVCINE_1
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5123
+#EXTINF:-1,PT:TV_CINE_1_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5122
+#EXTINF:-1,PT:TV_CINE_1+2H
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/8436
+#EXTINF:-1,PT:TVCINE_2
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5121
+#EXTINF:-1,PT:TV_CINE_2_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5120
+#EXTINF:-1,PT:TV_CINE_2+2H
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/8435
+#EXTINF:-1,PT:TVCINE_3
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5119
+#EXTINF:-1,PT:TV_CINE_3_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5118
+#EXTINF:-1,PT:TV_CINE_3+2H
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/8434
+#EXTINF:-1,PT:TVCINE_4
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5117
+#EXTINF:-1,PT:TV_CINE_4_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5116
+#EXTINF:-1,PT:TV_CINE_4+2H
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/8433
+#EXTINF:-1,PT:CINEMUNDO
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5127
+#EXTINF:-1,PT:CINEMUNDO+2H
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/8432
+#EXTINF:-1,PT:FOX_MOVIES
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5126
+#EXTINF:-1,PT:FOX_MOVIES+2H
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/8431
+#EXTINF:-1,PT:AMC
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5128
+#EXTINF:-1,PT:AMC+2H
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/8430
+#EXTINF:-1,PT:HOLLYWOOD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5125
+#EXTINF:-1,PT:HOLLYWOOD_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5124
+#EXTINF:-1,PT:HOLLYWOOD+2H
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/8429
+#EXTINF:-1,PT:SUNDANCE_TV_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5115
+#EXTINF:-1,PT:SUNDANCE_TV+2H
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/8428
+#EXTINF:-1,=======SERIES=======
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5140
+#EXTINF:-1,PT:AXN
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5139
+#EXTINF:-1,PT:AXN+2H
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/8456
+#EXTINF:-1,PT:AXN_BLACK
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5138
+#EXTINF:-1,PT:AXN_BLACK_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5137
+#EXTINF:-1,PT:AXN_BLACK+2H
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/8455
+#EXTINF:-1,PT:AXN_WHITE
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5136
+#EXTINF:-1,PT:AXN_WHITE+2H
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/8454
+#EXTINF:-1,PT:FOX
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/8208
+#EXTINF:-1,PT:FOX+2H
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/8453
+#EXTINF:-1,PT:FOX_COMEDY
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5135
+#EXTINF:-1,PT:FOX_COMEDY+2H
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/8452
+#EXTINF:-1,PT:FOX_CRIME
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5134
+#EXTINF:-1,PT:FOX_CRIME+2H
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/8451
+#EXTINF:-1,PT:FOX_LIFE
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5133
+#EXTINF:-1,PT:FOX_LIFE+2H
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/8450
+#EXTINF:-1,PT:SYFY
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5132
+#EXTINF:-1,PT:SYFY+2H
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/8449
+#EXTINF:-1,PT:TVS
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5131
+#EXTINF:-1,PT:TVS_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5130
+#EXTINF:-1,PT:TVS+2H
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/8448
+#EXTINF:-1,=======DESPORTO=======
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5114
+#EXTINF:-1,PT:ELEVEN_SPORT_1
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5112
+#EXTINF:-1,PT:ELEVEN_SPORT_1_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5113
+#EXTINF:-1,PT:ELEVEN_SPORT_2
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5110
+#EXTINF:-1,PT:ELEVEN_SPORT_2_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5111
+#EXTINF:-1,PT:ELEVEN_SPORT_3
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/8200
+#EXTINF:-1,PT:ELEVEN_SPORT_3_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5109
+#EXTINF:-1,PT:ELEVEN_SPORT_4
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/8207
+#EXTINF:-1,PT:ELEVEN_SPORT_4_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5108
+#EXTINF:-1,PT:ELEVEN_SPORT_5
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/8206
+#EXTINF:-1,PT:ELEVEN_SPORT_5_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5107
+#EXTINF:-1,PT:ELEVEN_SPORT_6
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/8205
+#EXTINF:-1,PT:ELEVEN_SPORT_6_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5106
+#EXTINF:-1,PT:A-BOLA-TV
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5105
+#EXTINF:-1,PT:BENFICA_TV1
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5104
+#EXTINF:-1,PT:BENFICA_TV2
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/8157
+#EXTINF:-1,PT:SPORT_TV
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5103
+#EXTINF:-1,PT:SPORT_TV1
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5102
+#EXTINF:-1,PT:SPORT_TV_1_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5101
+#EXTINF:-1,PT:SPORT_TV_2
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5100
+#EXTINF:-1,PT:SPORT_TV_2_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5099
+#EXTINF:-1,PT:SPORT_TV3
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5098
+#EXTINF:-1,PT:SPORT_TV_3_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5097
+#EXTINF:-1,PT:SPORT_TV_4
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5096
+#EXTINF:-1,PT:SPORT_TV_4_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5095
+#EXTINF:-1,PT:SPORT_TV5
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5094
+#EXTINF:-1,PT:SPORT_TV_5_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5093
+#EXTINF:-1,PT:SPORT_TV_4K
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5092
+#EXTINF:-1,PT:BTV_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5091
+#EXTINF:-1,PT:SPORTING_TV
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5090
+#EXTINF:-1,PT:SPORTING_TV_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5089
+#EXTINF:-1,PT:PORTO_CANAL
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5088
+#EXTINF:-1,PT:EUROSPORT_1
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5086
+#EXTINF:-1,PT:EUROSPORT_1_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5087
+#EXTINF:-1,PT:EUROSPORT_2
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5085
+#EXTINF:-1,PT:KOMBAT_SPORT
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5084
+#EXTINF:-1,PT:FIGHT_NETWORK_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5083
+#EXTINF:-1,PT:FUEL_TV
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5082
+#EXTINF:-1,PT:MOTORSPORT_TV
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5081
+#EXTINF:-1,PT:MOTORVISION
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5080
+#EXTINF:-1,PT:PFC
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5079
+#EXTINF:-1,PT:NBA_TV
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5078
+#EXTINF:-1,=======DOCUMENTÁRIOS=======
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5146
+#EXTINF:-1,PT:DISCOVERY_CHANNEL
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5145
+#EXTINF:-1,PT:DISCOVERY_HD_SHOWCASE
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5144
+#EXTINF:-1,PT:NAT_GEO_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/8156
+#EXTINF:-1,PT:NAT_GEO_WILD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5143
+#EXTINF:-1,PT:A&E
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5142
+#EXTINF:-1,PT:HISTORIA
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5141
+#EXTINF:-1,=======LIFESTYLE=======
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5161
+#EXTINF:-1,PT:CACA_VISION
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5160
+#EXTINF:-1,PT:CAZA_Y_PESCA
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5159
+#EXTINF:-1,PT:FASHION_TV
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5158
+#EXTINF:-1,PT:24KITCHEN
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5148
+#EXTINF:-1,PT:24_KITCHEN_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5157
+#EXTINF:-1,PT:MYCUISINE
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5156
+#EXTINF:-1,PT:ANGELUS_TV
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5155
+#EXTINF:-1,PT:SIC_K
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5154
+#EXTINF:-1,PT:EUROCHANNEL
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5153
+#EXTINF:-1,PT:GLOBO
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5152
+#EXTINF:-1,PT:GLOBO_NOW
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5151
+#EXTINF:-1,PT:CANCAO_NOVA
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5149
+#EXTINF:-1,PT:ODISSEIA
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5150
+#EXTINF:-1,PT:TRAVEL_CHANNEL_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5147
+#EXTINF:-1,=======INFANTIL=======
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5172
+#EXTINF:-1,PT:DISNEY_CHANNEL
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5171
+#EXTINF:-1,PT:DISNEY_CHANNEL_FOREVER
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5170
+#EXTINF:-1,PT:DISNEY_JUNIOR
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5169
+#EXTINF:-1,PT:CANAL_PANDA
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5168
+#EXTINF:-1,PT:BIGGS
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5167
+#EXTINF:-1,PT:NICKELODEON
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5166
+#EXTINF:-1,PT:JIM_JAM
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5165
+#EXTINF:-1,PT:CARTOON_NETWORK
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5164
+#EXTINF:-1,PT:BABY_TV
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5163
+#EXTINF:-1,PT:KURIAKOS_KIDS_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5162
+#EXTINF:-1,=======MUSIC=======
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5179
+#EXTINF:-1,PT:MCM_TOP
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5178
+#EXTINF:-1,PT:MTV_PORTUGAL
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5177
+#EXTINF:-1,PT:AFRO_MUSIC
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5176
+#EXTINF:-1,PT:TRACE_URBAN
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5175
+#EXTINF:-1,PT:ICONCERTS_HD
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5174
+#EXTINF:-1,PT:KURIAKOS_MUSIC
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5173
+#EXTINF:-1,=======INTERNACIONAL=======
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5187
+#EXTINF:-1,PT:BBC_ENTERTAINMENT
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5186
+#EXTINF:-1,PT:BLOOMBERG
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5184
+#EXTINF:-1,PT:CNBC_EUROPE
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5183
+#EXTINF:-1,PT:CNN
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5182
+#EXTINF:-1,PT:EURONEWS
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5181
+#EXTINF:-1,PT:TV_GALICIA
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5185
+#EXTINF:-1,PT:TV5_MONDE
+http://ch.novilka.net:8000/UU2kKbDSK3/bNOBAroxCH/5180
+#EXTINF:-1,PT: 24 Kitchen
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20275
+#EXTINF:-1,PT: A Bola TV
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20274
+#EXTINF:-1,PT: AMC
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20273
+#EXTINF:-1,PT: AXN Black HD
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20272
+#EXTINF:-1,PT: AXN White
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20271
+#EXTINF:-1,PT: Baby TV
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20270
+#EXTINF:-1,PT: Barca TV
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20269
+#EXTINF:-1,PT: Benfica TV HD
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20268
+#EXTINF:-1,PT: Biggs
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20267
+#EXTINF:-1,PT: Caça e Pesca
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20266
+#EXTINF:-1,PT: CAÇAVISION
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20265
+#EXTINF:-1,PT: Canal Q
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20264
+#EXTINF:-1,PT: CBS Reality
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20262
+#EXTINF:-1,PT: Cinemundo
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20261
+#EXTINF:-1,PT: Discovery Channel
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20260
+#EXTINF:-1,PT: Discovery Showcase
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20259
+#EXTINF:-1,PT: Disney Channel
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20258
+#EXTINF:-1,PT: Disney Junior
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20257
+#EXTINF:-1,PT: FOX Comedy
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20248
+#EXTINF:-1,PT: Fox Crime
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20247
+#EXTINF:-1,PT: FOX HD
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20246
+#EXTINF:-1,PT: FOX Life HD
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20245
+#EXTINF:-1,PT: FOX Movies
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20244
+#EXTINF:-1,PT: Fuel TV
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20243
+#EXTINF:-1,PT: Historia
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20242
+#EXTINF:-1,PT: Hollywood
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20241
+#EXTINF:-1,PT: JimJam
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20240
+#EXTINF:-1,PT: Kombat Sport
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20239
+#EXTINF:-1,PT: Motorvision
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20238
+#EXTINF:-1,PT: Nat Geo
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20237
+#EXTINF:-1,PT: Nat Geo Wild
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20236
+#EXTINF:-1,PT: Nickelodeon
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20235
+#EXTINF:-1,PT: Odissea
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20234
+#EXTINF:-1,PT: PFC
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20233
+#EXTINF:-1,PT: Porto Canal
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20232
+#EXTINF:-1,PT: Real Madrid TV
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20231
+#EXTINF:-1,PT: RTP Africa
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20230
+#EXTINF:-1,PT: SIC
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20229
+#EXTINF:-1,PT: SIC CARAS
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20228
+#EXTINF:-1,PT: SIC K
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20227
+#EXTINF:-1,PT: SIC Radical
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20226
+#EXTINF:-1,PT: Sport TV
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20225
+#EXTINF:-1,PT: Sport TV 1HD
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20224
+#EXTINF:-1,PT: Sport TV 2HD
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20223
+#EXTINF:-1,PT: Sport TV 3HD
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20222
+#EXTINF:-1,PT: Sport TV 4 HD
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20221
+#EXTINF:-1,PT: Sport TV 5 HD
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20220
+#EXTINF:-1,PT: Sporting TV
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20219
+#EXTINF:-1,PT: SYFY
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20218
+#EXTINF:-1,PT: TLC
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20217
+#EXTINF:-1,PT: Toros TV
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20216
+#EXTINF:-1,PT: TV Globo
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20215
+#EXTINF:-1,PT: TV Globo Premium
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20214
+#EXTINF:-1,PT: TV Record
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20213
+#EXTINF:-1,PT: TVi Reality
+http://redo1.com:8080/Ultraslan1901/k6BmtuHIY0/20212
+#EXTINF:-1,[PT] 24KITCHEN HD
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31512
+#EXTINF:-1,[PT] A&E
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31511
+#EXTINF:-1,[PT] AXN White HD
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31575
+#EXTINF:-1,[PT] AXN.HD
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31574
+#EXTINF:-1,[PT] BABY TV
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31510
+#EXTINF:-1,[PT] AXN HD
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31576
+#EXTINF:-1,[PT] BENFICA TV 2
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31508
+#EXTINF:-1,[PT] EUROSPORT
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31501
+#EXTINF:-1,[PT] DISCOVERY SHOWCASE HD
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31502
+#EXTINF:-1,[PT] Euronews
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31566
+#EXTINF:-1,[PT] ENTERTAINMENT
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31567
+#EXTINF:-1,[PT] Disney JR
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31568
+#EXTINF:-1,[PT] Cine Mundo
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31569
+#EXTINF:-1,[PT] MOTORVISION
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31496
+#EXTINF:-1,[PT] PANDA BIGGS
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31493
+#EXTINF:-1,[PT] Nat Geo Wild
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31554
+#EXTINF:-1,[PT] MTV PORTUGAL
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31555
+#EXTINF:-1,[PT] Nickelodeon
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31552
+#EXTINF:-1,[PT] Porto Canal
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31551
+#EXTINF:-1,[PT] PFC HD
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31492
+#EXTINF:-1,[PT] CACAVISION HD
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31506
+#EXTINF:-1,[PT] Fox HD
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31563
+#EXTINF:-1,[PT] GLOBO TV
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31499
+#EXTINF:-1,[PT] Fox Comedy
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31565
+#EXTINF:-1,[PT] HOLLYWOOD
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31498
+#EXTINF:-1,[PT] Fox Crime
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31564
+#EXTINF:-1,[PT] Historia
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31560
+#EXTINF:-1,[PT] Fox Life HD
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31562
+#EXTINF:-1,[PT] FUEL TV
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31500
+#EXTINF:-1,[PT] Fox Movies
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31561
+#EXTINF:-1,[PT] MCS EXTREME
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31557
+#EXTINF:-1,[PT] JIM JAM
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31497
+#EXTINF:-1,[PT] Kombat Sports
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31559
+#EXTINF:-1,[PT] MOTORVISION HD
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31495
+#EXTINF:-1,[PT] LIfestyle TV
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31558
+#EXTINF:-1,[PT] NICKELODEON
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31494
+#EXTINF:-1,[PT] AXN Black HD
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31577
+#EXTINF:-1,[PT] MOV HD
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31556
+#EXTINF:-1,[PT] RTP 1
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31550
+#EXTINF:-1,[PT] REDE TV
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31490
+#EXTINF:-1,[PT] Q CANAL
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31491
+#EXTINF:-1,[PT] NBA TV
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31553
+#EXTINF:-1,[PT] SYFY HD
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31525
+#EXTINF:-1,[PT] SYFY SD
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31524
+#EXTINF:-1,[PT] SPORTING TV
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31486
+#EXTINF:-1,[PT] Sic Radical
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31539
+#EXTINF:-1,[PT] Sic Noticias
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31540
+#EXTINF:-1,[PT] Sic Mulher
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31541
+#EXTINF:-1,[PT] Sic Kids
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31542
+#EXTINF:-1,[PT] Sic
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31543
+#EXTINF:-1,[PT] RTP Memoria
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31544
+#EXTINF:-1,[PT] RTP Madeira
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31545
+#EXTINF:-1,[PT] RTP Acores
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31547
+#EXTINF:-1,[PT] RTP 3
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31548
+#EXTINF:-1,[PT] RTP 2
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31549
+#EXTINF:-1,[PT] TRAVEL CHANNEL HD
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31484
+#EXTINF:-1,[PT] TVI REALITY
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31514
+#EXTINF:-1,[PT] Tvi 24
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31515
+#EXTINF:-1,[PT] TV Globo
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/36320
+#EXTINF:-1,[PT] TVI
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31516
+#EXTINF:-1,[PT] TV SERIES HD
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31517
+#EXTINF:-1,[PT] TV Record
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31518
+#EXTINF:-1,[PT] TV Cine 4
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31519
+#EXTINF:-1,[PT] TV Cine 3
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31520
+#EXTINF:-1,[PT] TV Cine 2
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31521
+#EXTINF:-1,[PT] TV CINE 1 HD
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31522
+#EXTINF:-1,[PT] TV Cine 1
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31523
+#EXTINF:-1,[PT] Sport TV3
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31527
+#EXTINF:-1,[PT] TVI REALITY
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31483
+#EXTINF:-1,[PT] Sport TV2 HD
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31528
+#EXTINF:-1,[PT] WOOHOO
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31513
+#EXTINF:-1,[PT] VH1
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31482
+#EXTINF:-1,[PT] Sport TV1 HD
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31529
+#EXTINF:-1,[PT] Sport TV 5
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31530
+#EXTINF:-1,[PT] RTP 1 HD
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31489
+#EXTINF:-1,[PT] SIC CARAS
+http://94.232.252.13:29500/RIEVI3yBky/6lTkD3jZRc/31487
